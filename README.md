@@ -1,1 +1,1 @@
-# TryHaskell
+# THe soltions of exercises from Haskell Stepik course
